@@ -1,1 +1,1 @@
-# SIC-XE-linking-loader
+# SIC/XE-linking-loader
