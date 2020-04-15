@@ -1,0 +1,23 @@
+System Programming
+Project3
+20130956 Dongwook Chang
+
+File listing:
+20130956.c	20130956.h	Document.doc	Makefile	opcode.txt	README	2_5.asm	
+proga.obj	progb.obj	progc.obj	copy.obj
+
+compile method:
+used -Wall, -c, -g option to compile 20130956.c
+used -Wall, -o option to link 20130956.o
+
+execution method:
+cspro:~$ make
+cspro:~$ ./20130956.out
+
+update:
+Source code updated on 5-1-18
+README updated on 5-1-18
+
+Any inquiry regarding the source code,
+feel free to contact:
+dongwook.chan@gmail.com
